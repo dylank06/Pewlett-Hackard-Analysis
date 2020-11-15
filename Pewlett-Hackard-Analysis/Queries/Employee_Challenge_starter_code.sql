@@ -45,3 +45,12 @@ ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 	 AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no 
+
+-- Create metorship_count table
+
+SELECT COUNT (me.emp_no), me.title
+
+INTO metorship_count
+FROM mentorship_eligibility as me
+GROUP BY me.title
+ORDER BY me.count DESC;
