@@ -25,6 +25,10 @@ THe mentorship eligibility table list the employees who are eligible to particip
 THe mentorship count of employees by title. 
 
 ## Summary 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+![retiring_titiles](https://user-images.githubusercontent.com/16258584/99162088-2c5f8a80-26bf-11eb-9474-131c8535456a.png)
+
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+There arer currently not enough employees in the departments shown by the mentorship count.
