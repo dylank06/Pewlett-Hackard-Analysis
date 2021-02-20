@@ -1,7 +1,19 @@
 # Pewlett-Hackard-Analysis
 
+## Summary
+
+Created entity relationship diagrams, preformed data modeling, and completed analysis on an emplouee database using SQL. Applied knowledge of DataFrames and tabular data to create an entity relationship diagrams. Then imported data from ERD's into postgres database. Lastly, created quires that use data to anser questions for Pewlett Hackerard managment. 
+
 ## Overview of the analysis 
-The purpose of this analysis is to make a data driven decision about the "silver tsunami" which is the wave of people heading for retirment.
+
+### THe Number of Retiring Employees by Title 
+
+- Used the ERD and SQL queries to create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions, used the DISTINCT ON statement to create a table that contains the most recent title of each employee. Then, used the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
+
+### The Employeese Eligible for the Menetorship Program 
+
+- Used the ERD and SQL queries, created a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
+
 ## Results 
 
 ![retirement_titles](https://user-images.githubusercontent.com/16258584/99162094-40a38780-26bf-11eb-9274-8b65260be1cc.png)
