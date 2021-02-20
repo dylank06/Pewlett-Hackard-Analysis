@@ -2,7 +2,7 @@
 
 ## Summary
 
-Created entity relationship diagrams, preformed data modeling, and completed analysis on an emplouee database using SQL. Applied knowledge of DataFrames and tabular data to create an entity relationship diagrams. Then imported data from ERD's into postgres database. Lastly, created quires that use data to anser questions for Pewlett Hackerard managment. 
+Created entity relationship diagrams, preformed data modeling, and completed analysis on an employee database using SQL. Applied knowledge of DataFrames and tabular data to create an entity relationship diagrams. Then imported data from ERD's into postgres database. Lastly, created quires that use data to anser questions for Pewlett Hackerard managment. 
 
 ## Overview of the analysis 
 
