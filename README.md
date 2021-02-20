@@ -30,4 +30,4 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-There arer currently not enough employees in the departments shown by the mentorship count.
+There are currently not enough employees in the departments shown by the mentorship count.
