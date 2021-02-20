@@ -6,7 +6,7 @@ Created entity relationship diagrams, preformed data modeling, and completed ana
 
 ## Overview of the analysis 
 
-### THe Number of Retiring Employees by Title 
+### The Number of Retiring Employees by Title 
 
 - Used the ERD and SQL queries to create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. Because some employees may have multiple titles in the database—for example, due to promotions, used the DISTINCT ON statement to create a table that contains the most recent title of each employee. Then, used the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
 
